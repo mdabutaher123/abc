@@ -1,0 +1,215 @@
+@media(min-width:1400px) {}
+
+
+@media(min-width:1200px) and (max-width:1399px) {}
+
+
+@media(min-width:992px) and (max-width:1199px) {}
+
+
+@media(min-width:768px) and (max-width:991px) {}
+
+
+@media(min-width:576px) and (max-width:767px) {}
+
+
+@media(max-width:575.98px) {
+
+
+    /*========================================
+                 Menu Part Start 
+    =========================================*/
+    .main_menu {
+        margin-top: 0px;
+        top: 0px;
+        background: #e23e38;
+    }
+
+    .main_menu .navbar-brand {
+        width: 170px;
+        height: 50px;
+    }
+
+    .main_menu .navbar-brand img {
+        margin-top: -1px;
+    }
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    .main_menu button i {
+        color: #fff;
+    }
+
+    .main_menu .navbar-nav {
+        background: #e23e38;
+        text-align: center;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        line-height: 40px;
+    }
+
+    /*========================================
+                 Menu Part End 
+    =========================================*/
+
+    /*========================================
+                 Banner Part Start 
+    =========================================*/
+    .banner_item {
+        padding: 100px 0 70px;
+    }
+
+    .banner_text h2 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+        margin-bottom: 5px;
+    }
+
+    .banner_text p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
+
+    .banner_text h2::before,
+    .banner_text h2::after,
+    .banner_text h1::before,
+    .banner_text h1::after,
+    .banner_text p::before,
+    .banner_text p::after {
+        display: none;
+    }
+
+    #banner_part .slick-dots li button {
+        width: 15px;
+        height: 15px;
+    }
+
+    /*========================================
+                 Banner Part End 
+    =========================================*/
+
+    /*========================================
+                 About Part Start 
+    =========================================*/
+    #about_part {
+        padding: 50px 0 40px;
+    }
+
+    .about_text p {
+        font-size: 13px;
+        margin-top: 10px;
+        text-align: justify;
+        padding-bottom: 20px;
+    }
+
+    .about_text h3 {
+        margin-bottom: -5px;
+    }
+
+    /*========================================
+                 About Part End 
+    =========================================*/
+
+    /*========================================
+                 Gallery Part Start 
+    =========================================*/
+    .gallery_head h3 {
+        font-size: 22px;
+    }
+
+    .gal_img:nth-child(2),
+    .gal_img:nth-child(4) {
+        margin-bottom: 30px;
+    }
+
+    .gal_img:nth-child(6) {
+        margin-bottom: 0;
+    }
+
+    .gallery_main {
+        padding: 30px 0 0;
+    }
+
+    .gal_img a {
+        display: block;
+    }
+
+
+
+    /*========================================
+                 Gallery Part End 
+    =========================================*/
+
+    /*========================================
+                 Team Part Start 
+    =========================================*/
+    #team_part {
+        padding: 40px 0;
+    }
+
+    /*========================================
+                 Team Part End 
+    =========================================*/
+
+    /*========================================
+                 Menu Part Start 
+    =========================================*/
+
+    /*========================================
+                 Menu Part End 
+    =========================================*/
+
+    /*========================================
+                 Menu Part Start 
+    =========================================*/
+
+    /*========================================
+                 Menu Part End 
+    =========================================*/
+
+    /*========================================
+                 Menu Part Start 
+    =========================================*/
+
+    /*========================================
+                 Menu Part End 
+    =========================================*/
+
+    /*========================================
+                 Menu Part Start 
+    =========================================*/
+
+    /*========================================
+                 Menu Part End 
+    =========================================*/
+
+    /*========================================
+                 Menu Part Start 
+    =========================================*/
+
+    /*========================================
+                 Menu Part End 
+    =========================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
